@@ -1,7 +1,4 @@
-<div align="center">
-  <img width="1200" height="475" alt="SeatSathi Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-  
-  # 🎓 SeatSathi - AI-Powered KCET Admission Counselor
+# 🎓 SeatSathi - AI-Powered KCET Admission Counselor
   
   [![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=white)](https://react.dev/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)

@@ -94,7 +94,8 @@ Every year, thousands of Karnataka students struggle with:
 
 5. **Open your browser**
    
-   Navigate to `http://localhost:5173` to start using SeatSathi!
+   Navigate to `http://localhost:5173` to start using SeatSathi! 
+   (NOTE: This MVP is running locally for now, soon will be hosted)
 
 ### Build for Production
 

@@ -71,7 +71,7 @@ Every year, thousands of Karnataka students struggle with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/seatsathi.git
+   git clone https://github.com/Shreervu/seatsathi.git
    cd seatsathi
    ```
 
